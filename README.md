@@ -2,8 +2,6 @@
 
 Product designer. I turn complex workflows into simple products, with design systems engineers can build from.
 
-Portfolio: [benaverill.design](https://benaverill.design)
-
 ## Work
 
 - **[LegacyHQ design system](https://github.com/benaverill-raidon/legacyhq-design-system)**: shared component rules, Figma foundations, and a React library for LegacyHQ's estate-planning platform, with a token pipeline built from DTCG source.
